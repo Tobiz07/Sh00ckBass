@@ -4,8 +4,10 @@
 #### Informations
 
 - I'm currently working on: **Nothing**
+- My name: **Tobi**
 - Pronouns: **Er/He/Him**
 - Programming languages: **Java, Javascript**
+- Discord: **Sh00ckBass | Tobi#6969**
 
 #### Notes
 My [website](http://sh00ckbass.de) is currently in maintenance. 
