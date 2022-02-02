@@ -7,7 +7,7 @@
 - My name: **Tobi**
 - Pronouns: **Er/He/Him**
 - Programming languages: **Java, Javascript**
-- Discord: **Sh00ckBass | Tobi#6969**
+- Discord: **Sh00ckBass | Tobi#9736**
 
 #### Notes
 My [website](http://sh00ckbass.de) is currently in maintenance. 
