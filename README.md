@@ -5,7 +5,7 @@
 
 - I'm currently working on: **My website**
 - My name: **Tobi**
-- Pronouns: **Er/He/Him**
+- Pronouns: **He/They**
 - Programming languages: **Java, Javascript**
 - Discord: **Sh00ckBass | Tobi#9736**
 
