@@ -3,11 +3,11 @@
 
 #### Informations
 
-- I'm currently working on: **My website**
-- My name: **Tobi**
-- Pronouns: **He/They**
+- I'm currently working on: **Nothing**
+- My name: **Riley/Rey**
+- Pronouns: **They/Them**
 - Programming languages: **Java, Javascript**
-- Discord: **Sh00ckBass | Tobi#9736**
+- Discord: **Sh00ckBass#0069**
 
 #### Notes
 My [website](http://sh00ckbass.de) is currently in maintenance. 
