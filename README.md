@@ -5,9 +5,9 @@
 
 - I'm currently working on: **Nothing**
 - My name: **Riley/Rey**
-- Pronouns: **They/Them**
-- Programming languages: **Java, Javascript**
-- Discord: **Sh00ckBass#0069**
+- Pronouns: **They/She/He**
+- Programming languages: **Java, Javascript**, **C#**
+- Discord: **Sh00ckBass#4971**
 
 #### Notes
 My [website](http://sh00ckbass.de) is currently in maintenance. 
