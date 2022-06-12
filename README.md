@@ -4,8 +4,8 @@
 #### Informations
 
 - I'm currently working on: **Nothing**
-- My name: **Riley/Rey**
-- Pronouns: **They/She/He**
+- My name: **Tobi/Rye**
+- Pronouns: **He/They**
 - Programming languages: **Java, Javascript**, **C#**
 - Discord: **Sh00ckBass#4971**
 
