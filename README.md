@@ -4,9 +4,9 @@
 #### Informations
 
 - I'm currently working on: **Nothing**
-- My name: **Tobi/Rye**
-- Pronouns: **He/They**
-- Programming languages: **Java, Javascript**, **C#**
+- My name: **Tobi**
+- Pronouns: **He/him**
+- Programming languages: **Java, Javascript**, **C#**, **Typescript**
 - Discord: **Sh00ckBass#4971**
 
 #### Notes
